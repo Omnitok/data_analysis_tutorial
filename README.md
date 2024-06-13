@@ -23,7 +23,7 @@ The model is in snow_crystal_segmentation folder. Already pretrained, currently 
 
 Run it with "sudo ./run_inference.sh". Here you can change the input-output directories.
 
-On "run_inference.py" One can set the detection limit for the model, and also can tweak the particle properties that the model will produce.
+On "run_inference.py" one can set the detection limit for the model, and also can tweak the particle properties that the model will produce.
 
 ## Classification model
 python=3.9
