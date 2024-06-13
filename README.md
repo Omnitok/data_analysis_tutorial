@@ -1,4 +1,4 @@
-# balloon_analysis
+# balloon-data_analysis
 codes for analyzing B-ICI balloon data
 
 Use typhon package for ginding equilibrium vapor pressure of water and ice
@@ -6,11 +6,11 @@ https://www.radiativetransfer.org/misc/typhon/doc/index.html
 
 Convert the PTU and the ETAG file from esrange. 
 Use 'plots.py' to create the plot, and 'ptu_data.py' to convert the ptu file. 
-The ETAG file might have to be tailored bz each launch. The code expects a specific form of the code, and that can varies with each launch. Check if the format looks exactlz like how the program expects it.
+The ETAG file might have to be tailored bz each launch. The code expects a specific form of the code, and that can varies with each launch. Check if the format looks exactly like how the program expects it.
 
 
 ### Using the models
-In order to use the models, create a virtual environment with conda.
+In order to use the models, create a virtual environment (with conda).
 
 ## Segmentation model
 Clone the git-repo to ".../data_analysis_tutorial/."
